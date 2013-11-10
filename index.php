@@ -41,8 +41,7 @@
 	<div class="main">
 <!-- footer -->
 		<footer>
-			<a href="http://www.templatemonster.com/" target="_blank" rel="nofollow">www.templatemonster.com</a><br>
-			<a href="http://www.templates.com/product/3d-models/" target="_blank" rel="nofollow">www.templates.com</a>
+			<p>&copy; Rozana Travel</p>
 		</footer>
 <!-- / footer -->
 	</div>

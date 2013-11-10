@@ -1,6 +1,6 @@
+var reportbus=1;
 function subbuslocate()
 {
-	
 	var busnum=document.getElementById('busnum').value;
 	var busloc=document.getElementById('busloc').value;
 	var bustow=document.getElementById('bustow').value;

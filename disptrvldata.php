@@ -23,7 +23,7 @@ $trvllocrad=$_GET['trvllocrad'];
 	}
 
 	if($resdata!="")
-		$resdata="<table width='100%' style='text-align:center;'><th>Source</th><th>Destination</th><th>Started time</th><th>Contact No</th>".$resdata."</table>";
+		$resdata="<table width='100%' style='text-align:center;'><th>Source</th><th>Destination</th><th>Starting time</th><th>Contact No</th>".$resdata."</table>";
 	else
 		$resdata="No related data to show";
 	echo $resdata;

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Destinations</title>
+<title>Find Lifts</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -63,8 +63,7 @@
 	<div class="main">
 <!-- footer -->
 		<footer>
-			<a href="http://www.templatemonster.com/" target="_blank" rel="nofollow">www.templatemonster.com</a><br>
-			<a href="http://www.templates.com/product/3d-models/" target="_blank" rel="nofollow">www.templates.com</a>
+			<p>&copy; Rozana Travel</p>
 		</footer>
 <!-- / footer -->
 	</div>

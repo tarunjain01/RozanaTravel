@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Tours</title>
+<title>FB Chatter</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -25,6 +25,14 @@
 </style>
 </head>
 <body id="page3">
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+  		var js, fjs = d.getElementsByTagName(s)[0];
+  		if (d.getElementById(id)) return;
+  		js = d.createElement(s); js.id = id;
+  		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=150919541669408";
+  		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 <div class="extra">
 	<div class="main">
 <!-- header -->
@@ -32,12 +40,8 @@
 <!-- / header -->
 <!-- content -->
 		<section id="content">
-			<h2>Travel Related Sites</h2>
-			<ul class="list1">
-				<li><a href="http://www.cleartrip.com">Cleartrip</a></li>
-				<li><a href="http://www.makemytrip.com">Makemytrip</a></li>
-				<li><a href="www.yatra.com">Yatra</a></li>
-				<li><a href="www.goibibo.com">goibibo</a></li>
+			<h3>Chatter on fb for your mentioned location</h3>
+			<div class="fb-comments" data-href="http://www.cleartrip.com" data-numposts="10"></div>
 		</section>
 <!-- / content -->
 	</div>
@@ -47,8 +51,7 @@
 	<div class="main">
 <!-- footer -->
 		<footer>
-			<a href="http://www.templatemonster.com/" target="_blank" rel="nofollow">www.templatemonster.com</a><br>
-			<a href="http://www.templates.com/product/3d-models/" target="_blank" rel="nofollow">www.templates.com</a>
+			<p>&copy; Rozana Travel</p>
 		</footer>
 <!-- / footer -->
 	</div>

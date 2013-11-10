@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Tours</title>
+<title>Travel Sites</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
@@ -38,6 +38,10 @@
 				<li><a href="http://www.makemytrip.com">Makemytrip</a></li>
 				<li><a href="www.yatra.com">Yatra</a></li>
 				<li><a href="www.goibibo.com">goibibo</a></li>
+				<li><a href="www.joguru.com">joguru</a></li>
+				<li><a href="www.mygola.com">mygola</a></li>
+				<li><a href="www.planmy.travel">plan My travel</a></li>
+				<li><a href="www.utrip.com">Utrip</a></li>
 		</section>
 <!-- / content -->
 	</div>
@@ -47,8 +51,7 @@
 	<div class="main">
 <!-- footer -->
 		<footer>
-			<a href="http://www.templatemonster.com/" target="_blank" rel="nofollow">www.templatemonster.com</a><br>
-			<a href="http://www.templates.com/product/3d-models/" target="_blank" rel="nofollow">www.templates.com</a>
+			<p>&copy; Rozana Travel</p>
 		</footer>
 <!-- / footer -->
 	</div>
